@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.0",
+  "versionCode": 8,
+  "versionName": "0.6.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/b13ac4d2dbaf17220168e876b269bff6f76214aa/releases/HuisKompas-0.5.0.apk",
-  "sha256": "791edd5e75d0c75c6a4e261866d01d2022345dedea880e048e0fb14739552dbd",
-  "notes": "Nieuwe tegel Energie: meterfoto kiezen, stand controleren, meetdatum en kWh-prijs invoeren. Bekijk verbruik en elektrakosten tussen twee standen, met foto en meetgeschiedenis. Je bestaande gegevens blijven behouden."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/5f440e2dc3b2eac423f96278a44eb3d730b12cc9/releases/HuisKompas-0.6.0.apk",
+  "sha256": "b2c201904bbf7b44f515af3a601262d8666f22d1a589d3f70af4e2af432d2b03",
+  "notes": "Nieuw: Handleidingen met categorietegels en eigen apparaten. Vul merk en model in om op internet te zoeken en koppel de juiste handleiding aan het apparaat. Apparaten en links gaan mee in de back-up."
 }

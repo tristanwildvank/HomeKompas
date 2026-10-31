@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.6.0",
+  "versionCode": 9,
+  "versionName": "0.6.1",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/5f440e2dc3b2eac423f96278a44eb3d730b12cc9/releases/HuisKompas-0.6.0.apk",
-  "sha256": "b2c201904bbf7b44f515af3a601262d8666f22d1a589d3f70af4e2af432d2b03",
-  "notes": "Nieuw: Handleidingen met categorietegels en eigen apparaten. Vul merk en model in om op internet te zoeken en koppel de juiste handleiding aan het apparaat. Apparaten en links gaan mee in de back-up."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/7e687b6651f99684d525bcdcfedb9e3be7a5866b/releases/HuisKompas-0.6.1.apk",
+  "sha256": "74252968aa7deb90bdef94ec2748788f1bed8d99242763e2d81ebae87ee93e07",
+  "notes": "Koppel eigen PDF-handleidingen aan apparaten en lees ze offline in de app. Inclusief vervangen/verwijderen en een verbeterde updatecontrole tegen verouderde GitHub-cache."
 }

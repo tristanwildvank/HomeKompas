@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
+  "versionCode": 4,
+  "versionName": "0.3.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/2225e1a3b8aae126545037401ec8d41b9fabfe8b/releases/HuisKompas-0.2.1.apk",
-  "sha256": "b7b93876578287bef407aeec8470a22f9d356e58b9b0e10f0154d07e08f11e0a",
-  "notes": "Nieuw blauw kleurenthema voor schermen, knoppen en het appicoon. Je huishoudgegevens blijven behouden."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/54864c8e758bd3bca8999016b61a6a8c6aa635af/releases/HuisKompas-0.3.0.apk",
+  "sha256": "7e91f1ceab3fd9494e091f02f9e0ee2ae69f2cd427fc623392be4fe905176ca7",
+  "notes": "Nieuw startscherm met zeven instelbare tegels. Kies zichtbaarheid en volgorde. Inclusief handmatige afvalkalender. Je gegevens blijven behouden."
 }

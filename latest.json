@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.4.1",
+  "versionCode": 7,
+  "versionName": "0.5.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/afc8f4ca09b9585449613433b836dde76f32a137/releases/HuisKompas-0.4.1.apk",
-  "sha256": "ed3b2731f8d68107d45af5453fa990d755542064700840156709b797a4a08e98",
-  "notes": "Correctie screenshotimport: leest nu de getoonde maandkalender met maand en jaar. Het blok Aankomende ophaaldagen wordt overgeslagen. Controleer en wijzig de dagen vóór opslaan."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/b13ac4d2dbaf17220168e876b269bff6f76214aa/releases/HuisKompas-0.5.0.apk",
+  "sha256": "791edd5e75d0c75c6a4e261866d01d2022345dedea880e048e0fb14739552dbd",
+  "notes": "Nieuwe tegel Energie: meterfoto kiezen, stand controleren, meetdatum en kWh-prijs invoeren. Bekijk verbruik en elektrakosten tussen twee standen, met foto en meetgeschiedenis. Je bestaande gegevens blijven behouden."
 }

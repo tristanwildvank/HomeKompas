@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.6.1",
+  "versionCode": 10,
+  "versionName": "0.7.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/7e687b6651f99684d525bcdcfedb9e3be7a5866b/releases/HuisKompas-0.6.1.apk",
-  "sha256": "74252968aa7deb90bdef94ec2748788f1bed8d99242763e2d81ebae87ee93e07",
-  "notes": "Koppel eigen PDF-handleidingen aan apparaten en lees ze offline in de app. Inclusief vervangen/verwijderen en een verbeterde updatecontrole tegen verouderde GitHub-cache."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/7aae07b8bb46a2ed74bfe08a92f05460cf6b3492/releases/HuisKompas-0.7.0.apk",
+  "sha256": "ee5a15c30fe844386a66111fcc595c42c0866d792723fa988eee0b500f5f0039",
+  "notes": "Nieuwe taakbalk: Tegels, Budget, MENU, Account en Instellingen. Groot centraal MENU, favoriete starttegels, geldzakenmenu, lokaal profiel met back-up en instelbare kleuren, tekstgrootte en vormen."
 }

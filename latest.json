@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.4.0",
+  "versionCode": 6,
+  "versionName": "0.4.1",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/ad741a4b4717a87ddf51ba4c4784c150268a9f5b/releases/HuisKompas-0.4.0.apk",
-  "sha256": "784e966eb6353237bd2d71beb079953e7721252e92e59e4fcda3984a97a959be",
-  "notes": "Lees AREA-screenshots op je telefoon. Controleer en wijzig ophaaldagen voor het opslaan; dubbele datums worden overgeslagen."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/afc8f4ca09b9585449613433b836dde76f32a137/releases/HuisKompas-0.4.1.apk",
+  "sha256": "ed3b2731f8d68107d45af5453fa990d755542064700840156709b797a4a08e98",
+  "notes": "Correctie screenshotimport: leest nu de getoonde maandkalender met maand en jaar. Het blok Aankomende ophaaldagen wordt overgeslagen. Controleer en wijzig de dagen vóór opslaan."
 }

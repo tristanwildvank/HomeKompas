@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.7.0",
+  "versionCode": 11,
+  "versionName": "0.8.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/7aae07b8bb46a2ed74bfe08a92f05460cf6b3492/releases/HuisKompas-0.7.0.apk",
-  "sha256": "ee5a15c30fe844386a66111fcc595c42c0866d792723fa988eee0b500f5f0039",
-  "notes": "Nieuwe taakbalk: Tegels, Budget, MENU, Account en Instellingen. Groot centraal MENU, favoriete starttegels, geldzakenmenu, lokaal profiel met back-up en instelbare kleuren, tekstgrootte en vormen."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/e5a50c2e146242c27c73f9e57d9d9b8b9827a940/releases/HuisKompas-0.8.0.apk",
+  "sha256": "7aac773bfc18952b6ab44d3ec1f6be23962016ab19afcdb7c829e2b7c8800da6",
+  "notes": "Afvalagenda met maandkalender, vaste afvalkleuren en zwevende plusknop. Afgeronde ophaaldagen mogen opnieuw worden toegevoegd. Uniforme tegels, twaalf vulkleuren, contourkleuren en instelbare duokleuren."
 }

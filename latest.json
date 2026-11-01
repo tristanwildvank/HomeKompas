@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.9.0",
+  "versionCode": 13,
+  "versionName": "0.10.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/75e3ca7819c78e091800d78254d77084779d7744/releases/HuisKompas-0.9.0.apk",
-  "sha256": "6bf9e131f8f476bfacf6c2338f9a4b10bc31b7b6dda599c575cbe4ee07c68d88",
-  "notes": "Nieuwe vulkleuren wit, lichtgrijs en grijs, subtiel afgeronde vormen en achtergronden voor alle schermen. Houd tegels vast om te slepen en wijzig de maat via de sleephoek. Android-terug volgt je vorige menu. Uitgebreide wasgids met geïllustreerde symbolen en schoonmaaktips per oppervlak, vervuiling en apparaat."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/98058594d21e7ed72a898aa42ed8a7d048bb29a5/releases/HuisKompas-0.10.0.apk",
+  "sha256": "b31bf118a73e8800a91c42694e0bfb7e077e29fda16c61136c09e8b467028667",
+  "notes": "Nieuw TO DO-hoofdstuk met Binnenhuis, Buitenshuis, Schuur en Tuin. Lijsten toevoegen, hernoemen en verwijderen; taken snel toevoegen, afvinken en verwijderen, zonder deadlines. Inclusief lokale opslag en back-up."
 }

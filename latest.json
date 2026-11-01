@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.8.0",
+  "versionCode": 12,
+  "versionName": "0.9.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/e5a50c2e146242c27c73f9e57d9d9b8b9827a940/releases/HuisKompas-0.8.0.apk",
-  "sha256": "7aac773bfc18952b6ab44d3ec1f6be23962016ab19afcdb7c829e2b7c8800da6",
-  "notes": "Afvalagenda met maandkalender, vaste afvalkleuren en zwevende plusknop. Afgeronde ophaaldagen mogen opnieuw worden toegevoegd. Uniforme tegels, twaalf vulkleuren, contourkleuren en instelbare duokleuren."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/75e3ca7819c78e091800d78254d77084779d7744/releases/HuisKompas-0.9.0.apk",
+  "sha256": "6bf9e131f8f476bfacf6c2338f9a4b10bc31b7b6dda599c575cbe4ee07c68d88",
+  "notes": "Nieuwe vulkleuren wit, lichtgrijs en grijs, subtiel afgeronde vormen en achtergronden voor alle schermen. Houd tegels vast om te slepen en wijzig de maat via de sleephoek. Android-terug volgt je vorige menu. Uitgebreide wasgids met geïllustreerde symbolen en schoonmaaktips per oppervlak, vervuiling en apparaat."
 }

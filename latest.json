@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.10.0",
+  "versionCode": 14,
+  "versionName": "0.10.1",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/98058594d21e7ed72a898aa42ed8a7d048bb29a5/releases/HuisKompas-0.10.0.apk",
-  "sha256": "b31bf118a73e8800a91c42694e0bfb7e077e29fda16c61136c09e8b467028667",
-  "notes": "Nieuw TO DO-hoofdstuk met Binnenhuis, Buitenshuis, Schuur en Tuin. Lijsten toevoegen, hernoemen en verwijderen; taken snel toevoegen, afvinken en verwijderen, zonder deadlines. Inclusief lokale opslag en back-up."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.10.1.apk",
+  "sha256": "64db6e12ffbcf7ec83590647f99aeb85aa10e81a76192e55823dea8fbc224033",
+  "notes": "Verbeterde betrouwbaarheid: herhalingen op de 29e-31e verschuiven niet meer, achterstallige routines vink je in een keer af, vaste lasten kun je stoppen zonder geschiedenis te wissen, een oude back-up wist je profiel en TO DO-lijsten niet meer, verwijderde TO DO-taken zijn terug te zetten en updates blijven niet hangen op een oude download."
 }

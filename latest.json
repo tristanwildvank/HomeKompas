@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.10.1",
+  "versionCode": 15,
+  "versionName": "0.10.2",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.10.1.apk",
-  "sha256": "64db6e12ffbcf7ec83590647f99aeb85aa10e81a76192e55823dea8fbc224033",
-  "notes": "Verbeterde betrouwbaarheid: herhalingen op de 29e-31e verschuiven niet meer, achterstallige routines vink je in een keer af, vaste lasten kun je stoppen zonder geschiedenis te wissen, een oude back-up wist je profiel en TO DO-lijsten niet meer, verwijderde TO DO-taken zijn terug te zetten en updates blijven niet hangen op een oude download."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.10.2.apk",
+  "sha256": "132c3c23616ca9f6a310723b35a907d2e591192ab3cd8680c4f63216218d51d7",
+  "notes": "Onderhoudsversie: draaien van het scherm herstart de app niet meer, zodat een lopende herkenning van een screenshot of meterfoto en open vensters behouden blijven. Geen wijzigingen aan je gegevens."
 }

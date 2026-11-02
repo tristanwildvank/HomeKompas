@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.10.2",
+  "versionCode": 16,
+  "versionName": "0.10.3",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.10.2.apk",
-  "sha256": "132c3c23616ca9f6a310723b35a907d2e591192ab3cd8680c4f63216218d51d7",
-  "notes": "Onderhoudsversie: draaien van het scherm herstart de app niet meer, zodat een lopende herkenning van een screenshot of meterfoto en open vensters behouden blijven. Geen wijzigingen aan je gegevens."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.10.3.apk",
+  "sha256": "82e74b90052ec6ba8bfaf519516d47d6aa8464894828b88f4bca799ea7333ca6",
+  "notes": "Correctie: bij een liggende telefoon bedekt het toetsenbord de invoervelden niet meer met een donker tekstvenster. Geen wijzigingen aan je gegevens."
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.11.0",
+  "versionCode": 18,
+  "versionName": "0.12.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.11.0.apk",
-  "sha256": "e8ec1f3b4a54780a0ba0ae2660dd77da621018892f8bda999f3df1afde85c5a8",
-  "notes": "Onderhoudsversie: de app wordt nu gebouwd met Gradle en automatisch getest bij elke wijziging. Je ziet geen verschil in de app; je gegevens blijven ongewijzigd."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.12.0.apk",
+  "sha256": "6dbda81b108f6a087dd36f6b2634a1f72aa6eb61ce2e13572d47d234313d8c10",
+  "notes": "Nieuwe opslag als basis voor gedeelde huishoudens. Je gegevens worden bij de eerste start omgezet; de oude opslag blijft als reservekopie bewaard. Maak voor de zekerheid eerst een back-up via Account. In de app zie je geen verschil."
 }

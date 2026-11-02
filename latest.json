@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.10.3",
+  "versionCode": 17,
+  "versionName": "0.11.0",
   "minSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.10.3.apk",
-  "sha256": "82e74b90052ec6ba8bfaf519516d47d6aa8464894828b88f4bca799ea7333ca6",
-  "notes": "Correctie: bij een liggende telefoon bedekt het toetsenbord de invoervelden niet meer met een donker tekstvenster. Geen wijzigingen aan je gegevens."
+  "apkUrl": "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.11.0.apk",
+  "sha256": "e8ec1f3b4a54780a0ba0ae2660dd77da621018892f8bda999f3df1afde85c5a8",
+  "notes": "Onderhoudsversie: de app wordt nu gebouwd met Gradle en automatisch getest bij elke wijziging. Je ziet geen verschil in de app; je gegevens blijven ongewijzigd."
 }

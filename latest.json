@@ -1,8 +1,8 @@
 {
-    "versionCode":  19,
-    "versionName":  "0.13.0",
+    "versionCode":  20,
+    "versionName":  "0.14.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.13.0.apk",
-    "sha256":  "616fe5bc3e33b2b8afc0220d0f24cf61914c3fc92435a58a8097ed5d8f4fee4e",
-    "notes":  "Onderhoudsversie: de app wordt nu op dezelfde manier gebouwd en getest op de pc als online. In de app zie je geen verschil; je gegevens blijven ongewijzigd."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.14.0.apk",
+    "sha256":  "d32045af0117eb65ac5fd3e2b6506aa3032ef545a6adb6eeb6773bce804d59cf",
+    "notes":  "De opslag van de app is vernieuwd als basis voor iPhone en gedeelde huishoudens. Je gegevens blijven gewoon staan; in de app zie je geen verschil. Maak voor de zekerheid eerst een back-up via Account."
 }

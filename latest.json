@@ -1,8 +1,8 @@
 {
-    "versionCode":  20,
-    "versionName":  "0.14.0",
+    "versionCode":  21,
+    "versionName":  "0.15.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.14.0.apk",
-    "sha256":  "d32045af0117eb65ac5fd3e2b6506aa3032ef545a6adb6eeb6773bce804d59cf",
-    "notes":  "De opslag van de app is vernieuwd als basis voor iPhone en gedeelde huishoudens. Je gegevens blijven gewoon staan; in de app zie je geen verschil. Maak voor de zekerheid eerst een back-up via Account."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.15.0.apk",
+    "sha256":  "5d47c485b6f493314d44a3ca9631ac9a42240d4a804a884eb313a7a0ad7079ad",
+    "notes":  "Back-up is nu één zip-bestand mét je meterfoto\u0027s en PDF\u0027s, en herstellen wist niets meer echt. Een link naar een PDF-handleiding kun je ook offline opslaan. Maak voor de zekerheid eerst een back-up via Account."
 }

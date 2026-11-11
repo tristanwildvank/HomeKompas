@@ -1,8 +1,8 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.15.0",
+    "versionCode":  22,
+    "versionName":  "0.16.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.15.0.apk",
-    "sha256":  "5d47c485b6f493314d44a3ca9631ac9a42240d4a804a884eb313a7a0ad7079ad",
-    "notes":  "Back-up is nu één zip-bestand mét je meterfoto\u0027s en PDF\u0027s, en herstellen wist niets meer echt. Een link naar een PDF-handleiding kun je ook offline opslaan. Maak voor de zekerheid eerst een back-up via Account."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.16.0.apk",
+    "sha256":  "056fb8b58bb75ce8a31a8e218a2e16f12477690bc1beb3a188409ffe88034789",
+    "notes":  "Nieuw: kies in Instellingen een van vier thema\u0027s, elk met een eigen startscherm (Tijdlijn, Overzicht, Blokken of Inhoudsopgave), licht of donker. TO DO is vernieuwd. Je gegevens blijven gewoon staan."
 }

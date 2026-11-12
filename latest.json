@@ -1,8 +1,8 @@
 {
-    "versionCode":  22,
-    "versionName":  "0.16.0",
+    "versionCode":  23,
+    "versionName":  "0.16.1",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.16.0.apk",
-    "sha256":  "056fb8b58bb75ce8a31a8e218a2e16f12477690bc1beb3a188409ffe88034789",
-    "notes":  "Nieuw: kies in Instellingen een van vier thema\u0027s, elk met een eigen startscherm (Tijdlijn, Overzicht, Blokken of Inhoudsopgave), licht of donker. TO DO is vernieuwd. Je gegevens blijven gewoon staan."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.16.1.apk",
+    "sha256":  "267116f56239c75f3aaa80dec5f1561d30510b6bf84631a15660b9f8ca17f4a5",
+    "notes":  "Opbouw en kleuren kies je nu los: in Instellingen staat \u0027Opbouw\u0027 (Tijdlijn, Overzicht, Blokken, Inhoudsopgave) en \u0027Kleuren\u0027 (Zand, Nacht, Kleurrijk, Papier). Elke combinatie kan. Na de update ziet alles er eerst hetzelfde uit."
 }

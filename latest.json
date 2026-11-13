@@ -1,8 +1,8 @@
 {
-    "versionCode":  24,
-    "versionName":  "0.17.0",
+    "versionCode":  25,
+    "versionName":  "0.17.1",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.17.0.apk",
-    "sha256":  "c64fc1bac354109e0719b475cfc30cc93522c1336584da546913fb7d1970e916",
-    "notes":  "Nieuw: leden van het huishouden, TO DO met wie/om de beurt, datum en herhaling, twee boodschappenlijsten, mededelingen, huisinfo (wifi-QR, bellen, gevoelige gegevens), Vandaag voor jou en een nieuwe volgorde van onderwerpen."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.17.1.apk",
+    "sha256":  "d8d71671e462417a409f51b9422f6449e759c6c1c85ee4440d3e2149469bd81e",
+    "notes":  "Startschermen volgen nu de volgorde van onderwerpen: Veel aandacht groot bovenaan met inhoud (taken direct afvinken, ophaaldag, saldo, mededelingen), Weinig aandacht klein. Knop Volgorde aanpassen onderaan elk startscherm."
 }

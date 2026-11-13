@@ -1,8 +1,8 @@
 {
-    "versionCode":  23,
-    "versionName":  "0.16.1",
+    "versionCode":  24,
+    "versionName":  "0.17.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.16.1.apk",
-    "sha256":  "267116f56239c75f3aaa80dec5f1561d30510b6bf84631a15660b9f8ca17f4a5",
-    "notes":  "Opbouw en kleuren kies je nu los: in Instellingen staat \u0027Opbouw\u0027 (Tijdlijn, Overzicht, Blokken, Inhoudsopgave) en \u0027Kleuren\u0027 (Zand, Nacht, Kleurrijk, Papier). Elke combinatie kan. Na de update ziet alles er eerst hetzelfde uit."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.17.0.apk",
+    "sha256":  "c64fc1bac354109e0719b475cfc30cc93522c1336584da546913fb7d1970e916",
+    "notes":  "Nieuw: leden van het huishouden, TO DO met wie/om de beurt, datum en herhaling, twee boodschappenlijsten, mededelingen, huisinfo (wifi-QR, bellen, gevoelige gegevens), Vandaag voor jou en een nieuwe volgorde van onderwerpen."
 }

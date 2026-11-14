@@ -1,8 +1,8 @@
 {
-    "versionCode":  26,
-    "versionName":  "0.17.2",
+    "versionCode":  27,
+    "versionName":  "0.18.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.17.2.apk",
-    "sha256":  "6671ecc9f80b9494ccd94407b8d7b8e7a8e018d82407caa0d1ef1d25105e80b9",
-    "notes":  "Meldingen op je telefoon (afval, taken, planning, meetdag) met stille uren; slepen in de volgorde van onderwerpen; Blokken vernieuwd."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.18.0.apk",
+    "sha256":  "e4e7acf33fbe031a06862cf5771f1b4aec5fcecd5ec1deaedf46fc0fccce5763",
+    "notes":  "Geldzaken, Planning, Account, Instellingen en Info in de nieuwe vormgeving (volgt je opbouw en kleuren, licht en donker)."
 }

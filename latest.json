@@ -1,8 +1,8 @@
 {
-    "versionCode":  25,
-    "versionName":  "0.17.1",
+    "versionCode":  26,
+    "versionName":  "0.17.2",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.17.1.apk",
-    "sha256":  "d8d71671e462417a409f51b9422f6449e759c6c1c85ee4440d3e2149469bd81e",
-    "notes":  "Startschermen volgen nu de volgorde van onderwerpen: Veel aandacht groot bovenaan met inhoud (taken direct afvinken, ophaaldag, saldo, mededelingen), Weinig aandacht klein. Knop Volgorde aanpassen onderaan elk startscherm."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.17.2.apk",
+    "sha256":  "6671ecc9f80b9494ccd94407b8d7b8e7a8e018d82407caa0d1ef1d25105e80b9",
+    "notes":  "Meldingen op je telefoon (afval, taken, planning, meetdag) met stille uren; slepen in de volgorde van onderwerpen; Blokken vernieuwd."
 }

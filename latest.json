@@ -1,8 +1,8 @@
 {
-    "versionCode":  27,
-    "versionName":  "0.18.0",
+    "versionCode":  29,
+    "versionName":  "0.19.1",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.18.0.apk",
-    "sha256":  "e4e7acf33fbe031a06862cf5771f1b4aec5fcecd5ec1deaedf46fc0fccce5763",
-    "notes":  "Geldzaken, Planning, Account, Instellingen en Info in de nieuwe vormgeving (volgt je opbouw en kleuren, licht en donker)."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.19.1.apk",
+    "sha256":  "918f40b378b586e0c91ce758b2524aa84e90304736ee208f3fba64bb341c38a4",
+    "notes":  "Alle schermen in de nieuwe vormgeving: Afval kalender, Energie, Handleidingen, Huishoudtips met wasgids en wassymbolen, en MENU. Moderne terugknop en bestandskeuze."
 }

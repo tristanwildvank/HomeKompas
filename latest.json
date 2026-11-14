@@ -1,8 +1,8 @@
 {
-    "versionCode":  29,
-    "versionName":  "0.19.1",
+    "versionCode":  30,
+    "versionName":  "0.20.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.19.1.apk",
-    "sha256":  "918f40b378b586e0c91ce758b2524aa84e90304736ee208f3fba64bb341c38a4",
-    "notes":  "Alle schermen in de nieuwe vormgeving: Afval kalender, Energie, Handleidingen, Huishoudtips met wasgids en wassymbolen, en MENU. Moderne terugknop en bestandskeuze."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.20.0.apk",
+    "sha256":  "bc7103e4d3c4a84f476733fc3135eb92d9c809de02ba37e5c15916d2164889cb",
+    "notes":  "Nieuw startscherm Vandaag: wat er vandaag voor je is, tegels, een balk met wat dringend is en een nieuwe onderbalk. Huishoudprofielen zetten je onderwerpen klaar. Nieuwe kleuren Salie \u0026 zalm."
 }

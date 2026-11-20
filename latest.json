@@ -1,8 +1,8 @@
 {
-    "versionCode":  31,
-    "versionName":  "0.21.0",
+    "versionCode":  32,
+    "versionName":  "0.22.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.21.0.apk",
-    "sha256":  "c8532cb8f7e0fbfb81ee21c530e7309a9a8be90b82b6950bd1577e0b589ee7d2",
-    "notes":  "Betere tekstherkenning, helemaal op je telefoon: meterfoto\u0027s (ook donkere displays en flauwe foto\u0027s) en de maand van de afvalkalender worden beter gelezen, en het gaat sneller."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.22.0.apk",
+    "sha256":  "980c1892750ab5430becd8ac30fd95480ff2889763d6759151c042bcbd1d3b19",
+    "notes":  "Apparaatdossier: per apparaat aankoopdatum, winkel, prijs, garantie en bestanden (bon, factuur, garantiebewijs, foto, typeplaatje). Nieuw onderwerp Apparaatdossier met garantieoverzicht en een melding voordat de garantie afloopt."
 }

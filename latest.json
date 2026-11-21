@@ -1,8 +1,8 @@
 {
-    "versionCode":  40,
-    "versionName":  "0.26.3",
+    "versionCode":  41,
+    "versionName":  "0.26.4",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.3.apk",
-    "sha256":  "3530e06e226a4d84cee9ebd3bd1e41e2a133802b3f5ccbf57bde8c0bc2ab3355",
-    "notes":  "Briefje overnemen: weer beter lezen na 0.26.2, geleerd handschrift vergeten, en bijsnijden na de foto."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.4.apk",
+    "sha256":  "b03a02f6fb559ff50034a039d556cdce89bf294845589cf651793b39362c4416",
+    "notes":  "Briefje overnemen werkt nu ook als Android de app tijdens de foto sluit. Geleerd handschrift vergeten staat er altijd."
 }

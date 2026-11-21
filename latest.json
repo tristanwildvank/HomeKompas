@@ -1,8 +1,8 @@
 {
-    "versionCode":  39,
-    "versionName":  "0.26.2",
+    "versionCode":  40,
+    "versionName":  "0.26.3",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.2.apk",
-    "sha256":  "287c333231d6b0588a61ef7662ed348c99f65a00d14072c732b61e5c94f2d80d",
-    "notes":  "Briefje overnemen gaat nog beter: de app leert van je verbeteringen en leest de foto op vier manieren."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.3.apk",
+    "sha256":  "3530e06e226a4d84cee9ebd3bd1e41e2a133802b3f5ccbf57bde8c0bc2ab3355",
+    "notes":  "Briefje overnemen: weer beter lezen na 0.26.2, geleerd handschrift vergeten, en bijsnijden na de foto."
 }

@@ -1,8 +1,8 @@
 {
-    "versionCode":  36,
-    "versionName":  "0.25.1",
+    "versionCode":  37,
+    "versionName":  "0.26.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.25.1.apk",
-    "sha256":  "63baec81d0e94856f862f3960827a04d6db2f29cccb518b7ea6245f5f330517e",
-    "notes":  "Boodschappenlijst overzichtelijker: sneltoetsbalk met Toevoegen (eigen venster), Checklist en Indeling."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.0.apk",
+    "sha256":  "0088a2741364e824af49ea592de20ed533861f40dfb6ea157adf186433bff73e",
+    "notes":  "Boodschappenbriefje overnemen met een foto (tekstherkenning op de telefoon, daarna controleren). Ik ben bij werkt weer meteen, knop Vaste lijst, invoerveld blijft in beeld, winkelkeuze in de vaste lijst."
 }

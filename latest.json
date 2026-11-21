@@ -1,8 +1,8 @@
 {
-    "versionCode":  34,
-    "versionName":  "0.24.0",
+    "versionCode":  35,
+    "versionName":  "0.25.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.24.0.apk",
-    "sha256":  "4235227c8aa99079d947d2f4351001d45a8b7855d217195dd4e40c8920435403",
-    "notes":  "Eén vormgeving overal: handleiding zoeken, de PDF- en fotoweergave en alle meldvensters in de stijl van de app (ook donker). Tekstgrootte in een nieuw venster, mededelingen wijzigen en keuzeknoppen makkelijker aan te tikken."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.25.0.apk",
+    "sha256":  "a422d966f119c39bcbca569a3149376bd4d9fb184341ec2240a39d00f00879db",
+    "notes":  "Boodschappenlijsten vernieuwd: winkels per lijst, meerdere winkels per boodschap, Ik ben bij, sorteren per groep of A-Z, groepen zelf invullen, vaste lijst nalopen en een vinkje dat naar de winkelwagen vliegt."
 }

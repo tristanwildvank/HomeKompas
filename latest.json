@@ -1,8 +1,8 @@
 {
-    "versionCode":  32,
-    "versionName":  "0.22.0",
+    "versionCode":  33,
+    "versionName":  "0.23.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.22.0.apk",
-    "sha256":  "980c1892750ab5430becd8ac30fd95480ff2889763d6759151c042bcbd1d3b19",
-    "notes":  "Apparaatdossier: per apparaat aankoopdatum, winkel, prijs, garantie en bestanden (bon, factuur, garantiebewijs, foto, typeplaatje). Nieuw onderwerp Apparaatdossier met garantieoverzicht en een melding voordat de garantie afloopt."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.23.0.apk",
+    "sha256":  "c4f318da241c3e6379fcda5f6cfa9b785a5869eb405ed212f8697c4bd1382255",
+    "notes":  "Achter de schermen verbeterd: de app is kleiner (15 MB in plaats van 23 MB), controleert updates op de moderne manier en is opgeruimd. Je ziet verder geen verschil."
 }

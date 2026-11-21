@@ -1,8 +1,8 @@
 {
-    "versionCode":  37,
-    "versionName":  "0.26.0",
+    "versionCode":  38,
+    "versionName":  "0.26.1",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.0.apk",
-    "sha256":  "0088a2741364e824af49ea592de20ed533861f40dfb6ea157adf186433bff73e",
-    "notes":  "Boodschappenbriefje overnemen met een foto (tekstherkenning op de telefoon, daarna controleren). Ik ben bij werkt weer meteen, knop Vaste lijst, invoerveld blijft in beeld, winkelkeuze in de vaste lijst."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.1.apk",
+    "sha256":  "a9fd3b93e42613fd3c8425faa2c94e92195eb37edc8491beec16e98951591883",
+    "notes":  "Briefje overnemen gaat beter: half gelezen woorden worden verbeterd met producten die de app kent, met Terugzetten in het controlevenster, en een fototip."
 }

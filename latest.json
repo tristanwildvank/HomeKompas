@@ -1,8 +1,8 @@
 {
-    "versionCode":  33,
-    "versionName":  "0.23.0",
+    "versionCode":  34,
+    "versionName":  "0.24.0",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.23.0.apk",
-    "sha256":  "c4f318da241c3e6379fcda5f6cfa9b785a5869eb405ed212f8697c4bd1382255",
-    "notes":  "Achter de schermen verbeterd: de app is kleiner (15 MB in plaats van 23 MB), controleert updates op de moderne manier en is opgeruimd. Je ziet verder geen verschil."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.24.0.apk",
+    "sha256":  "4235227c8aa99079d947d2f4351001d45a8b7855d217195dd4e40c8920435403",
+    "notes":  "Eén vormgeving overal: handleiding zoeken, de PDF- en fotoweergave en alle meldvensters in de stijl van de app (ook donker). Tekstgrootte in een nieuw venster, mededelingen wijzigen en keuzeknoppen makkelijker aan te tikken."
 }

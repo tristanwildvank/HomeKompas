@@ -1,8 +1,8 @@
 {
-    "versionCode":  43,
-    "versionName":  "0.26.6",
+    "versionCode":  44,
+    "versionName":  "0.26.7",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.6.apk",
-    "sha256":  "d840a569902dbeb8c30299d8262205f0d99c3e917936b48d1663a10c5e4ba818",
-    "notes":  "Afval kalender: ophaaldagen ophalen bij Mijn Afvalwijzer met postcode en huisnummer, en vanzelf bijwerken."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.7.apk",
+    "sha256":  "2ac9ca1757a5f27e1d5e51bd2454592c3552e516a43a3e7f7915686e6a1629f8",
+    "notes":  "Afval kalender: kies uit ruim 45 afvalbedrijven en gemeenten in een uitklapmenu."
 }

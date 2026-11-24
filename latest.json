@@ -1,8 +1,8 @@
 {
-    "versionCode":  42,
-    "versionName":  "0.26.5",
+    "versionCode":  43,
+    "versionName":  "0.26.6",
     "minSdk":  26,
-    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.5.apk",
-    "sha256":  "960130c8ccf1c1aab11adae73fed59d20b91a6ebd677d6556897010df0ee1733",
-    "notes":  "Briefje lezen weer zoals in 0.26.1. Het bijsnijdkader begint om de hele foto en haalt geen tekst langs de rand meer weg."
+    "apkUrl":  "https://raw.githubusercontent.com/tristanwildvank/HomeKompas/main/releases/HuisKompas-0.26.6.apk",
+    "sha256":  "d840a569902dbeb8c30299d8262205f0d99c3e917936b48d1663a10c5e4ba818",
+    "notes":  "Afval kalender: ophaaldagen ophalen bij Mijn Afvalwijzer met postcode en huisnummer, en vanzelf bijwerken."
 }
